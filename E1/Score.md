@@ -96,3 +96,38 @@ Leaderboard opcional por:
 
 Átomos distractores: elementos que **no pertenecen** a ninguna molécula en el nivel actual (ej. Azufre, Fósforo, etc.)
 
+## Ejemplo de Leaderboard - XR XPerience Escenario 1
+
+### Nivel: Básico (Agua y Sal común)
+
+| Posición | Jugador     | Puntaje | Tiempo | Precisión | Logros              |
+|----------|-------------|---------|--------|-----------|---------------------|
+| 🥇 1     | ZairaRM | 320     | 2:14   | 100%      | 🧠 Sin errores, ⚡ Rápida |
+| 🥈 2     | Nayeli   | 300     | 2:39   | 95%       | 🧠 Sin errores       |
+| 🥉 3     | SebasToro     | 280     | 3:00   | 90%       | 🧠 Sin errores       |
+| 4        | LauraQ       | 265     | 3:22   | 88%       |                     |
+| 5        | ProfeVR      | 260     | 3:41   | 85%       | 💡 Aprendiz dedicado |
+
+
+### Íconos:
+
+- 🧠 Sin errores
+- ⚡ Rápida
+- 💡 Aprendiz dedicado
+
+## Logros de Jugador - Seguimiento Individual:
+
+### Jugador: ZairaRM
+
+| Logro                            | Descripción                                       | Estado |
+|----------------------------------|---------------------------------------------------|--------|
+| 🧠 Sin errores                    | Completó una molécula sin cometer errores         | ✅     |
+| ⚡ Rápida                         | Completó una molécula en tiempo récord (< 2 min) | ❌     |
+| 🧩 Estructura Perfecta            | Colocó todos los átomos en sus posiciones exactas | ✅     |
+| 🔬 Aprendiz Químico               | Completó todo el Nivel 1                          | ✅     |
+| 🧪 Investigador Intermedio       | Completó todo el Nivel 2                          | ❌     |
+| 🧬 Bioquímico en Formación        | Completó todo el Nivel 3                          | ❌     |
+| 💡 Maestro de los Elementos      | Identificó correctamente todos los distractores   | ❌     |
+| ♻️ Reintento con éxito           | Completó molécula luego de 3 intentos             | ✅     |
+
+
