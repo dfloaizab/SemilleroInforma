@@ -50,7 +50,7 @@
 
 - Al completar correctamente una molécula, se muestra:
   - Una **animación de ensamblaje**
-  - Una **explicación didáctica breve** sobre la moléculas (en el documento de diseño)
+  - Una **explicación didáctica breve** sobre la molécula (en el documento de diseño)
 - Tips deben aparecen si hay errores recurrentes (detección de patrones)
 
 ---
