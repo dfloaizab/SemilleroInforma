@@ -1,0 +1,121 @@
+VentaID,Fecha,Especie,Raza,Barrio,Estrato,Producto,Cantidad,PrecioUnitario,ValorTotal
+1,2026-03-04,Perro,Labrador,Caney,4,Alimento Estándar,2,67286,134572
+2,2026-01-08,Perro,Pastor Alemán,Capri,4,Alimento Premium,1,116535,116535
+3,2026-02-19,Perro,Pastor Alemán,Ciudad Jardín,6,Vitaminas,4,38611,154444
+4,2026-02-05,Gato,Siamés,El Ingenio,5,Vitaminas,4,40574,162296
+5,2026-02-28,Perro,French Bulldog,San Fernando,5,Alimento Premium,4,116584,466336
+6,2026-02-18,Gato,British Shorthair,Caney,4,Shampoo,1,34955,34955
+7,2026-03-28,Perro,Yorkshire Terrier,San Fernando,5,Arena Sanitaria,3,60299,180897
+8,2026-03-08,Gato,British Shorthair,Ciudad Jardín,6,Vitaminas,1,35750,35750
+9,2026-02-15,Gato,Siamés,Ciudad Jardín,6,Shampoo,1,29227,29227
+10,2026-02-23,Gato,Persa,Versalles,4,Medicamento,2,50980,101960
+11,2026-02-13,Perro,Pastor Alemán,El Ingenio,5,Arena Sanitaria,2,52677,105354
+12,2026-01-08,Gato,British Shorthair,Ciudad Jardín,6,Vitaminas,3,47588,142764
+13,2026-03-23,Perro,French Bulldog,Capri,4,Medicamento,1,43456,43456
+14,2026-02-05,Gato,Persa,Pance,6,Juguete,4,27340,109360
+15,2026-02-12,Perro,Criollo,Caney,4,Vitaminas,4,44560,178240
+16,2026-01-21,Perro,Golden Retriever,Pance,6,Alimento Premium,1,116796,116796
+17,2026-02-20,Perro,Criollo,Capri,4,Arena Sanitaria,1,56304,56304
+18,2026-03-04,Gato,British Shorthair,Caney,4,Arena Sanitaria,1,61145,61145
+19,2026-02-01,Gato,Maine Coon,San Fernando,5,Medicamento,4,42591,170364
+20,2026-02-27,Gato,British Shorthair,El Ingenio,5,Arena Sanitaria,1,60244,60244
+21,2026-03-01,Perro,Golden Retriever,Versalles,4,Shampoo,2,31837,63674
+22,2026-01-02,Gato,Criollo,Granada,5,Alimento Premium,3,120038,360114
+23,2026-03-25,Perro,Pastor Alemán,San Fernando,5,Alimento Premium,4,116133,464532
+24,2026-03-28,Perro,Golden Retriever,Pance,6,Arena Sanitaria,2,54342,108684
+25,2026-03-21,Gato,Persa,Ciudad Jardín,6,Vitaminas,3,41537,124611
+26,2026-01-11,Gato,Criollo,Pance,6,Alimento Premium,2,118681,237362
+27,2026-01-23,Perro,Pastor Alemán,Ciudad Jardín,6,Arena Sanitaria,2,50117,100234
+28,2026-03-08,Perro,Golden Retriever,San Fernando,5,Alimento Premium,3,116160,348480
+29,2026-03-19,Gato,Criollo,Ciudad Jardín,6,Arena Sanitaria,2,61851,123702
+30,2026-01-04,Gato,Persa,Pance,6,Shampoo,4,26119,104476
+31,2026-01-22,Gato,Maine Coon,Capri,4,Juguete,4,36945,147780
+32,2026-01-07,Perro,Labrador,Capri,4,Vitaminas,3,36790,110370
+33,2026-02-15,Perro,Pastor Alemán,Pance,6,Alimento Estándar,4,68006,272024
+34,2026-03-18,Perro,Labrador,Pance,6,Shampoo,1,23828,23828
+35,2026-02-07,Perro,Labrador,Ciudad Jardín,6,Alimento Estándar,4,72956,291824
+36,2026-02-26,Gato,Siamés,El Ingenio,5,Juguete,1,31396,31396
+37,2026-01-10,Gato,Maine Coon,Capri,4,Vitaminas,4,37536,150144
+38,2026-01-19,Perro,Labrador,Granada,5,Vitaminas,3,35936,107808
+39,2026-01-20,Gato,British Shorthair,El Ingenio,5,Alimento Premium,1,118044,118044
+40,2026-01-19,Perro,Criollo,Ciudad Jardín,6,Juguete,1,34333,34333
+41,2026-01-22,Perro,Pastor Alemán,San Fernando,5,Juguete,3,29272,87816
+42,2026-03-10,Gato,Persa,Caney,4,Juguete,2,36004,72008
+43,2026-03-04,Gato,Maine Coon,San Fernando,5,Alimento Premium,4,125177,500708
+44,2026-02-03,Perro,Pastor Alemán,Ciudad Jardín,6,Arena Sanitaria,3,52170,156510
+45,2026-03-10,Perro,French Bulldog,Caney,4,Alimento Estándar,4,73900,295600
+46,2026-02-04,Perro,Criollo,Caney,4,Vitaminas,1,37200,37200
+47,2026-01-23,Perro,Criollo,El Ingenio,5,Medicamento,3,49909,149727
+48,2026-01-03,Gato,Persa,Caney,4,Arena Sanitaria,4,54114,216456
+49,2026-01-21,Gato,Maine Coon,Granada,5,Alimento Premium,3,127634,382902
+50,2026-01-04,Gato,Persa,Pance,6,Arena Sanitaria,4,59189,236756
+51,2026-03-18,Perro,Criollo,El Ingenio,5,Arena Sanitaria,1,56049,56049
+52,2026-01-12,Perro,Yorkshire Terrier,El Ingenio,5,Alimento Premium,3,120974,362922
+53,2026-03-28,Perro,Criollo,Ciudad Jardín,6,Vitaminas,1,40794,40794
+54,2026-02-01,Gato,British Shorthair,El Ingenio,5,Alimento Estándar,2,67900,135800
+55,2026-03-26,Perro,Criollo,Versalles,4,Shampoo,4,33975,135900
+56,2026-01-28,Perro,French Bulldog,El Ingenio,5,Shampoo,1,29267,29267
+57,2026-02-27,Gato,Persa,Ciudad Jardín,6,Shampoo,4,28728,114912
+58,2026-02-09,Perro,Golden Retriever,Granada,5,Vitaminas,2,41528,83056
+59,2026-03-11,Perro,French Bulldog,Versalles,4,Vitaminas,4,46133,184532
+60,2026-01-20,Perro,Labrador,Caney,4,Alimento Estándar,3,65626,196878
+61,2026-03-07,Gato,Maine Coon,Versalles,4,Juguete,1,31311,31311
+62,2026-02-03,Gato,Siamés,Capri,4,Alimento Premium,2,120967,241934
+63,2026-02-17,Gato,British Shorthair,Versalles,4,Vitaminas,1,46792,46792
+64,2026-01-07,Gato,Criollo,Versalles,4,Juguete,3,34083,102249
+65,2026-03-27,Gato,Criollo,El Ingenio,5,Arena Sanitaria,3,56653,169959
+66,2026-03-20,Perro,French Bulldog,Caney,4,Alimento Estándar,4,77873,311492
+67,2026-02-26,Gato,Criollo,Pance,6,Juguete,2,33375,66750
+68,2026-01-22,Perro,Criollo,San Fernando,5,Medicamento,3,41530,124590
+69,2026-01-16,Gato,Persa,Ciudad Jardín,6,Alimento Estándar,1,65757,65757
+70,2026-03-13,Perro,Yorkshire Terrier,Capri,4,Vitaminas,2,46769,93538
+71,2026-01-25,Gato,Criollo,Ciudad Jardín,6,Alimento Estándar,1,77303,77303
+72,2026-03-08,Gato,Persa,El Ingenio,5,Shampoo,4,23822,95288
+73,2026-03-18,Perro,Yorkshire Terrier,El Ingenio,5,Shampoo,4,33937,135748
+74,2026-03-28,Gato,Criollo,Capri,4,Shampoo,4,25607,102428
+75,2026-02-25,Gato,Criollo,Caney,4,Shampoo,2,33447,66894
+76,2026-02-08,Gato,Persa,Caney,4,Juguete,1,36690,36690
+77,2026-01-08,Gato,Maine Coon,Versalles,4,Arena Sanitaria,1,52267,52267
+78,2026-02-18,Gato,Persa,Ciudad Jardín,6,Alimento Premium,4,121678,486712
+79,2026-03-23,Gato,Criollo,Granada,5,Alimento Estándar,4,71381,285524
+80,2026-02-25,Perro,Pastor Alemán,Capri,4,Juguete,1,30763,30763
+81,2026-02-16,Gato,Criollo,Ciudad Jardín,6,Juguete,2,29471,58942
+82,2026-01-27,Perro,Yorkshire Terrier,Versalles,4,Vitaminas,4,46864,187456
+83,2026-03-14,Gato,Persa,Granada,5,Juguete,1,26375,26375
+84,2026-02-07,Perro,Yorkshire Terrier,El Ingenio,5,Alimento Premium,3,121211,363633
+85,2026-02-09,Gato,Maine Coon,Versalles,4,Shampoo,4,27558,110232
+86,2026-01-21,Perro,Yorkshire Terrier,Granada,5,Vitaminas,1,40733,40733
+87,2026-01-27,Perro,Criollo,Granada,5,Shampoo,1,27051,27051
+88,2026-03-04,Perro,Pastor Alemán,El Ingenio,5,Alimento Estándar,2,72758,145516
+89,2026-03-20,Perro,Yorkshire Terrier,Caney,4,Shampoo,3,25749,77247
+90,2026-03-22,Perro,Golden Retriever,Caney,4,Alimento Premium,1,120111,120111
+91,2026-03-25,Gato,Criollo,Ciudad Jardín,6,Alimento Premium,2,116669,233338
+92,2026-03-14,Gato,British Shorthair,San Fernando,5,Shampoo,1,28688,28688
+93,2026-01-14,Gato,Siamés,Versalles,4,Alimento Premium,4,123031,492124
+94,2026-03-21,Gato,Criollo,El Ingenio,5,Juguete,2,37022,74044
+95,2026-03-09,Gato,British Shorthair,Pance,6,Juguete,4,36977,147908
+96,2026-02-19,Gato,Persa,San Fernando,5,Medicamento,4,43995,175980
+97,2026-02-07,Gato,Maine Coon,Granada,5,Juguete,3,27979,83937
+98,2026-01-17,Gato,Maine Coon,Versalles,4,Medicamento,3,49106,147318
+99,2026-03-25,Perro,Labrador,Ciudad Jardín,6,Vitaminas,4,43004,172016
+100,2026-01-03,Perro,Criollo,Pance,6,Vitaminas,4,42342,169368
+101,2026-03-19,Gato,Persa,Capri,4,Vitaminas,2,40016,80032
+102,2026-03-15,Gato,Criollo,Versalles,4,Juguete,3,30764,92292
+103,2026-01-11,Gato,Maine Coon,Caney,4,Alimento Estándar,1,76817,76817
+104,2026-02-09,Perro,Criollo,El Ingenio,5,Alimento Estándar,2,77101,154202
+105,2026-01-10,Gato,Siamés,Ciudad Jardín,6,Medicamento,2,45912,91824
+106,2026-03-10,Perro,Criollo,El Ingenio,5,Medicamento,1,40893,40893
+107,2026-02-16,Perro,Criollo,Pance,6,Alimento Premium,1,124405,124405
+108,2026-02-04,Gato,Criollo,Versalles,4,Alimento Estándar,1,69136,69136
+109,2026-01-26,Perro,Yorkshire Terrier,Pance,6,Alimento Premium,1,117485,117485
+110,2026-03-26,Gato,Siamés,Ciudad Jardín,6,Alimento Premium,4,124933,499732
+111,2026-03-14,Perro,Pastor Alemán,Capri,4,Juguete,4,29871,119484
+112,2026-01-21,Gato,British Shorthair,Granada,5,Arena Sanitaria,1,62496,62496
+113,2026-03-03,Perro,French Bulldog,San Fernando,5,Alimento Estándar,2,67847,135694
+114,2026-01-08,Perro,Labrador,Capri,4,Juguete,4,29771,119084
+115,2026-03-19,Gato,Maine Coon,Pance,6,Alimento Premium,2,119334,238668
+116,2026-01-09,Perro,Yorkshire Terrier,San Fernando,5,Arena Sanitaria,2,60610,121220
+117,2026-03-27,Perro,Labrador,Granada,5,Alimento Estándar,3,74749,224247
+118,2026-02-09,Gato,Criollo,San Fernando,5,Juguete,3,36464,109392
+119,2026-03-11,Gato,Criollo,San Fernando,5,Arena Sanitaria,1,57078,57078
+120,2026-03-27,Gato,Siamés,San Fernando,5,Alimento Estándar,1,77529,77529
