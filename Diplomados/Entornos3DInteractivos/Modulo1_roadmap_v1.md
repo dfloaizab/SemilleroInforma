@@ -31,7 +31,6 @@ Con el calendario real quedan **tres bloques naturales**:
 | S11 | Miércoles 15/07/2026 | 6:30 p.m. – 9:00 p.m. | 2.5h | Cámaras y composición | Encuadre, profundidad de campo, reglas de composición |
 | S12 | Jueves 16/07/2026 | 6:30 p.m. – 9:00 p.m. | 2.5h | Motores de render | Eevee vs. Cycles, parámetros de calidad/tiempo |
 | S13 | Viernes 17/07/2026 | 6:30 p.m. – 9:00 p.m. | 2.5h | Render final del bloque | Escena materializada, iluminada y renderizada; cierre del bloque "apariencia" |
-| — | *(sin sesión de Blender del 18 al 28 de julio)* | | | | Ver actividad puente al final de esta hoja |
 | S14 | Miércoles 29/07/2026 | 6:30 p.m. – 9:00 p.m. | 2.5h | Animación básica | Keyframes, timeline, graph editor, interpolación |
 | S15 | Jueves 30/07/2026 | 6:30 p.m. – 9:00 p.m. | 2.5h | Rigging / animación de objetos | Armature básico o animación jerárquica (parenting + keyframes) |
 | S16 | Viernes 31/07/2026 | 6:30 p.m. – 9:30 p.m. | 3h | Optimización y exportación en vivo | Poly count, *baking*, exportación FBX/glTF para Unity/Unreal/WebXR |
