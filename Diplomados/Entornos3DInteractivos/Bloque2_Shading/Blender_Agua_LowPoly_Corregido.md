@@ -1,11 +1,11 @@
-# Agua Low-Poly — Shading Nodes y Geometry Nodes (versión corregida)
-## Extensión: Sesiones 6-7 — Shading y Apariencia
+# Diplomado "Desarrollo de escenarios 3D y ambientes virtuales"
 
-Esta es la versión corregida del instructivo de agua, con los ajustes que surgieron al probarlo en clase: orden correcto entre subdivisión y Weight Paint, y una forma de conectar los nodos que evita el error "Unknown socket value".
+## Agua Low-Poly — Shading Nodes y Geometry Nodes (versión corregida)
+### Extensión: Sesiones 6-7 — Shading y Apariencia
 
 ---
 
-## Parte 1 — Shading Nodes: material PBR del agua
+### Parte 1 — Shading Nodes: material PBR del agua
 
 Esta parte se trabaja en el workspace **Shading** (pestaña superior de Blender), donde ves el editor de nodos de material en la mitad inferior de la pantalla.
 
