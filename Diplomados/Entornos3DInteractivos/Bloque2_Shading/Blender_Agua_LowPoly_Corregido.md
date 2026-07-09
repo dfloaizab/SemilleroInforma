@@ -1,13 +1,13 @@
 # Diplomado "Desarrollo de escenarios 3D y ambientes virtuales"
 
-## Agua Low-Poly — Shading Nodes y Geometry Nodes (versión corregida)
+## Agua Low-Poly — Shading Nodes y Geometry Nodes.
 ### Extensión: Sesiones 6-7 — Shading y Apariencia
 
 ---
 
 ### Parte 1 — Shading Nodes: material PBR del agua
 
-Esta parte se trabaja en el workspace **Shading** (pestaña superior de Blender), donde ves el editor de nodos de material en la mitad inferior de la pantalla.
+Esta parte se trabaja en el workspace **Shading** (pestaña superior de Blender), donde se vé el editor de nodos de material en la mitad inferior de la pantalla.
 
 ### 1.1 Preparar las mallas de agua
 
@@ -124,8 +124,3 @@ El valor de Transmission no se ve en tiempo real a menos que actives lo siguient
 
 ---
 
-## Resumen de la corrección respecto al intento anterior
-
-1. **Subdivide antes de Weight Paint** — sin esto, el pincel no puede pintar una mancha localizada.
-2. **Copiar el nombre del Vertex Group** en vez de escribirlo, para el nodo `Named Attribute`.
-3. **Conectar siempre arrastrando manualmente**, borrando primero cualquier cable viejo antes de rehacer una conexión — así se evita el error "Unknown socket value".
