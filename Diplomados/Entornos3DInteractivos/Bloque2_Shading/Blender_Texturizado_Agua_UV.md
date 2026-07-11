@@ -5,10 +5,10 @@
 
 ## 0. Antes de empezar: sobre los formatos de archivo
 
-Me pasaste cada textura en `.jpg` y `.eps`. Aclaración importante: **Blender no puede leer archivos `.eps`** en el nodo Image Texture. EPS es un formato **vectorial** (PostScript), pensado para Illustrator/Inkscape — Blender solo lee formatos de imagen **raster**: JPG, PNG, TIFF, TGA, BMP, OpenEXR, HDR, etc.
+Se tienen las dos texturas en formato `.jpg` y `.eps`. Aclaración importante: **Blender no puede leer archivos `.eps`** en el nodo Image Texture. EPS es un formato **vectorial** (PostScript), pensado para Illustrator/Inkscape — Blender solo lee formatos de imagen **raster**: JPG, PNG, TIFF, TGA, BMP, OpenEXR, HDR, etc.
 
 - Para este instructivo vamos a usar directamente los `.jpg` que ya tienes (`summer_background_47_a.jpg` y `Triangle_pattern_007.jpg`) — funcionan sin problema.
-- Si en algún momento necesitas más resolución de la que trae el `.jpg` (por ejemplo, para un render final en alta calidad), exporta el `.eps` a PNG en alta resolución desde Illustrator/Inkscape (`File > Export > PNG`, 2048px o más) y usa ese PNG en vez del JPG. El `.eps` en sí, tal cual, no sirve para Blender.
+- Si en algún momento se necesita más resolución de la que trae el `.jpg` (por ejemplo, para un render final en alta calidad), se debe exportar el `.eps` a PNG en alta resolución desde Illustrator/Inkscape (`File > Export > PNG`, 2048px o más) y usa ese PNG en vez del JPG. El `.eps` en sí, tal cual, no sirve para Blender.
 
 **Asignación de texturas para este proyecto:**
 - `summer_background_47_a.jpg` (patrón de caustics/ondas) → `Agua_Lago` (la poza), porque imita el reflejo ondulado típico de una superficie de agua en calma.
