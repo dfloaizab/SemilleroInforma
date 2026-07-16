@@ -1,5 +1,6 @@
 # Protocolo de Verificación Previa al Render: Geometría, Materiales y Nodos
-## Guía general del curso — Blender
+## Diplomado "Desarrollo de Escenarios 3D y Entornos Virtuales"
+## Universidad Santiago de Cali
 
 ---
 
