@@ -216,6 +216,4 @@ Un caminar creíble no es solo de patas: el cuerpo también se mueve.
 | **Cyclic Modifier** | Modificador de curva que repite la animación indefinidamente fuera del rango de keyframes. |
 | **NLA (Non-Linear Animation)** | Sistema para combinar y reutilizar acciones de animación como clips independientes. |
 
----
 
-*Documento generado como guía de referencia para animación de armature en Blender, con énfasis en rigging básico y ciclos de caminata para modelos hexápodos.*
