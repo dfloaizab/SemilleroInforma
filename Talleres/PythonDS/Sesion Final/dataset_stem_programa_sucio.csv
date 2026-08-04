@@ -1,0 +1,32 @@
+ID,Edad,Genero,Municipio,Institucion,Estrato,Promedio,Beca,Asistencia
+1,99.0,M,cali,INEM,1,5.8,NO,80.0
+2,,f ,Palmira,INEM,1,5.8, si ,80.0
+3,17.0,Masculino,Palmira,IE Central,6,3.71,NO,80.0
+4,16.0,Masculino,Cali,INEM,5,5.8,NO,105.0
+5,99.0,Masculino,cali,IE Central,1,5.8,Si,
+6,16.0,Masculino,Cali,IE Central,2,5.8,NO,80.0
+7,16.0,M, Cali ,IE Central,4,5.8,Si,95.0
+8,99.0,M, Cali ,IE Central,2,5.8,Si,95.0
+9,16.0,M,Cali,IE Central,2,5.8,Sí,95.0
+10,99.0,F,Cali,IE Central,2,4.63,Sí,80.0
+11,99.0,f ,Cali,IE Central,1,5.8,NO,95.0
+12,,Masculino,Cali,IE Central,2,4.21,NO,105.0
+13,,f ,Palmira,IE Central,2,3.27,NO,80.0
+14,18.0,Masculino,cali,IE Central,2,3.82,NO,
+15,,Masculino,Cali,INEM,4,3.46,Si,
+16,,M,cali,IE Central,4,5.8,Si,95.0
+17,18.0,f , Cali ,IE Central,2,5.8,Sí,80.0
+18,16.0,f ,Cali,IE Central,6,5.8, si ,105.0
+19,,Masculino,Palmira,IE Central,6,5.8,NO,95.0
+20,17.0,M, Cali ,INEM,5,5.8,Si,
+21,18.0,Masculino, Cali ,INEM,1,5.8,Sí,95.0
+22,99.0,f , Cali ,IE Central,5,4.14,NO,105.0
+23,16.0,Masculino,Palmira,IE Central,6,5.8,Sí,95.0
+24,99.0,M,cali,INEM,3,4.61, si ,80.0
+25,17.0,Masculino,cali,IE Central,4,5.8, si ,95.0
+26,17.0,Masculino,Palmira,IE Central,3,4.02,NO,95.0
+27,18.0,Masculino,Palmira,IE Central,1,4.52,NO,95.0
+28,16.0,f ,Cali,INEM,2,3.67,NO,95.0
+29,18.0,f , Cali ,IE Central,4,4.87,Sí,95.0
+30,16.0,M, Cali ,INEM,3,5.8, si ,
+3,17.0,Masculino,Palmira,IE Central,6,3.71,NO,80.0
