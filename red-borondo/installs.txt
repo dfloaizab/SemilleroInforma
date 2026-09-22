@@ -1,0 +1,2 @@
+ynpx expo install expo-location expo-linear-gradient react-native-maps react-native-safe-area-context react-native-screens
+npm install @react-navigation/native @react-navigation/native-stack @expo/vector-icons
